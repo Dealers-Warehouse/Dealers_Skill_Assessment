@@ -59,7 +59,7 @@ $pdf->Ln(0.5);
 
 //Lets add a picture
 $pdf->Cell(8, 0.2, "Lets add a Picture to the PDF.", 0, 0.5);
-$pdf->Image('dwc_web_header_resized.png', $pdf->GetX(), $pdf->GetY(), 7, 1, "PNG");
+$pdf->Image('images/dwc_web_header_resized.png', $pdf->GetX(), $pdf->GetY(), 7, 1, "PNG");
 $pdf->Ln(1);
 
 
