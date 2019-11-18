@@ -44,4 +44,6 @@ Approx 1-2 hours to complete
 * The PDF documents layout can be structured in any way you wish. Please see examples of FPDF class usage in the examples/pdf folder.<br/>
 * New customer documents should be saved to the "customers" folder.
  5. Once complete, submit your final version of the project to Ted Cox (tcox@dwc-k.com). Alternatively, you may wish to push your work to the Dealers Warehouse GitHub repository: https://github.com/Dealers-Warehouse/Dealers_Skill_Assessment
+ 
+ * For technical issues or questions, please contact Erik (ejohnson@dwc-k.com) or James (jwillhoite@dwc-k.com)
   
