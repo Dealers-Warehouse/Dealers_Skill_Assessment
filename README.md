@@ -41,9 +41,13 @@ Approx 1-2 hours to complete. Please take your time. This is a reflection of you
  4. If all validation checks have passed, generate a PDF document for the new customer using the FPDF Library populated with the form data. Besides the information entered by the user, the PDF document should also contain: 
      * Date and Time of form submission
      * A unique account number assigned to the new customer<br/>
-* The PDF documents layout can be structured in any way you wish. Please see examples of FPDF class usage in the examples/pdf folder.<br/>
-* New customer documents should be saved to the "customers" folder.
- 5. Once complete, submit your final version of the project to Ted Cox (tcox@dwc-k.com). Alternatively, you may wish to push your work to the Dealers Warehouse GitHub repository: https://github.com/Dealers-Warehouse/Dealers_Skill_Assessment
+ 5. The PDF should look like the example given in the examples/pdf folder. 
+     * New customer documents should be saved to the "customers" folder.
+ 6. Once complete, submit your final version of the project to Ted Cox (tcox@dwc-k.com). Alternatively, you may wish to push your work to the Dealers Warehouse GitHub repository: https://github.com/Dealers-Warehouse/Dealers_Skill_Assessment
  
- * For technical issues or questions, please contact Erik (ejohnson@dwc-k.com) or James (jwillhoite@dwc-k.com)
+## Examples
+For examples on how to use the FPDF Class, please see examples/pdf/basic-pdf.php file.<br>
+
+## Technical Issues
+Please contact Erik (ejohnson@dwc-k.com) or James (jwillhoite@dwc-k.com)
   
