@@ -9,7 +9,7 @@ libraries/fdfp<br>
 customers/<br>
 
 ## Time Frame
-Approx 1-2 hours to complete
+Approx 1-2 hours to complete. Please take your time. This is a reflection of your coding ability.
 
 ## Requirements
 1.	The “index.php” file contains an existing form to add a new Dealers Warehouse customer. The form has the following fields:
@@ -37,7 +37,7 @@ Approx 1-2 hours to complete
    * Th
    * F
  2. On form submission, collect the user input and post the form data to the provided PHP script “addNewCustomer.php”
- 3. Invalid input should cause the form submission to halt and alert the user to any problematic input. Please use both client- and server-side validation.
+ 3. Invalid input should cause the form submission to halt and alert the user to any problematic input. Please use both client- **and** server-side validation.
  4. If all validation checks have passed, generate a PDF document for the new customer using the FPDF Library populated with the form data. Besides the information entered by the user, the PDF document should also contain: 
      * Date and Time of form submission
      * A unique account number assigned to the new customer<br/>
