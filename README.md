@@ -39,7 +39,7 @@ Create a website that can submit a form to save new customers, display existing 
 
 - [x] Once complete, post your code to GitHub where it can be accessed by our reviewers.
 	- Provide a README.md file that explains how to set up the project locally for review
-	- Provide a mysqldump with data to test with
+	- Provide a database (.sql) file containing customer data
 
 ## Guidelines
 - You may use any frameworks (PHP, JavaScript or CSS) or none at all
