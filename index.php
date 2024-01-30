@@ -6,7 +6,6 @@
     <title>Customer Information Form</title>
 </head>
 <body>
-
     <h2>Customer Information Form</h2>
 
     <form action="" method="post">
