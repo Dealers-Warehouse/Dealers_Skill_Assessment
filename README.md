@@ -41,7 +41,7 @@ Create a website that allows you to add new customers to a database, as well as 
 	- Provide a database (.sql) file containing customer data
 
 ## Guidelines
-- You may use any frameworks (PHP, JavaScript or CSS) or none at all
+- You may use any frameworks (PHP, JavaScript or CSS) or none at all (Laravel and Vue recommended)
 - This project is intentionally open-ended. Let this be a reflection of your coding ability and development style.
 - Docker container is preferred
 
